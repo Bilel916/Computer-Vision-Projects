@@ -1,4 +1,4 @@
-## Fine-Tuning Stable Diffusion Models with DreamBooth for Personalized E-Commerce
+# Fine-Tuning Stable Diffusion Models with DreamBooth for Personalized E-Commerce
 
 This project focuses on fine-tuning pre-trained Stable Diffusion models using DreamBooth to generate high-quality, personalized product images tailored for e-commerce applications. By integrating real-world product data, we enhance the model's accuracy and relevance, enabling the generation of images that closely reflect actual products. This approach not only improves visual representation but also enhances user engagement and experience in online shopping environments.
 
